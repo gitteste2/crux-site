@@ -73,7 +73,7 @@
 <!-- 								<crux:image id="cruxFooterLogo" url="${siteDeviceResources.cruxFooterLogo}" width="auto" height="auto" /> -->
 							</div>
 							<div class="footerLogoEtc">
-								<span>Licensed under Apache 2.0</span>
+								<span>Licensed under Apache 2.0 - correção de BUG</span>
 								<div class="clear"></div>
 							</div>
 						</div>
